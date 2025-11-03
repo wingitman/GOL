@@ -1,2 +1,4 @@
 ZIG/.zig-cache
-ZIG/zig-out/bin
+ZIG/zig-out
+CPP/build
+GO/build
